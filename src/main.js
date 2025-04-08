@@ -9,16 +9,17 @@ const Main = () => {
 
   // Timeline events
 const events = [
-    { year: 2000, title: "The Big Bang", details: "Openbrolly is founded and MovieSite Locations is launched." },
-    { year: 2002, title: "The dawn of time", details: "Introduction of MovieSite Crew and MovieMaps." },
-    { year: 2007, title: "The Paleozoic Era", details: "Launch of OB Health and NHS collaborations." },
-    { year: 2010, title: "The Mesozoic Era", details: "MovieSite and OB Health experience growth." },
-    { year: 2013, title: "The Cenozoic Era", details: "Recognition in life sciences and SaaS innovation." },
-    { year: 2017, title: "Evolution", details: "Launch of MovieSite Permits and EventsMakr." },
-    { year: 2022, title: "Transforming through every step", details: "Partnership with Moray HandyPerson Services." },
-    { year: 2023, title: "A Bump in the road", details: "Geoff Wilcock’s legacy and product expansion." },
-    { year: 2024, title: "Finding meaning", details: "Supporting wellbeing in the entertainment industry." },
-    { year: 2025, title: "The green road", details: "Sustainability program for TV and film productions." }
+  { year: 2000, title: "The Big Bang", details: "Openbrolly is founded and MovieSite Locations is launched. Locations is the first module of what is to become the leading in-the-cloud CRM for film offices." },
+  { year: 2002, title: "The dawn of time", details: "Introduction of MovieSite Crew and MovieMaps. These additional module extends the capabilities of the software, meeting the needs and demands from film offices" },
+  { year: 2007, title: "The Paleozoic Era", details: "Launch of OB Health and collaboration on projects like My Cancer Portal with the NHS. These projects put Openbrolly on an upward trend for the provision of support for critical services." },
+  { year: 2010, title: "The Mesozoic Era", details: "MovieSite and OB Health experience significant growth, fostering a stronger community within Openbrolly." },
+  { year: 2013, title: "The Cenozoic Era", details: "Recognition through awards in life sciences and technology for health, establishing Openbrolly as a leading SaaS provider in filming and healthcare." },
+  { year: 2017, title: "Evolution", details: "Introduction of MovieSite Permits and EventsMakr, enhancing client collaboration and project management capabilities. The permits module starts to revoltionise time and motion, but bundling many manual tasks into one cohesive operation." },
+  { year: 2022, title: "Transforming through every step", details: "Openbrolly partners with Moray HandyPerson Services (MHPS), a lifeline for older, disabled, and vulnerable residents in Moray. By providing cutting-edge website and database solutions, Openbrolly empowers MHPS to deliver more efficient and impactful services to the community." },
+  { year: 2023, title: "A Bump in the road", details: "Geoff Wilcock, a key figure in Openbrolly, passes away. However, the team remains resilient, carrying forward his legacy. Launch of MS2, TrailPoint, and updated MovieMaps, showcasing continuous development of skills and technologies." },
+  { year: 2024, title: "Finding meaning", details: "Openbrolly is proud to partner with the TV and Film Charity, supporting wellbeing and innovation across the entertainment industry." },
+  { year: 2025, title: "The green road", details: "Openbrolly partners with Business Waste to create a groundbreaking programme – Hygieia –designed to simplify sustainability for TV and film productions across the UK." }
+
   ];
 
   return (
