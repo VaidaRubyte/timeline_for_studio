@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timeline_for_studio/static/css/main.e35e6d0a.css",
+    "main.js": "/timeline_for_studio/static/js/main.f0089d73.js",
+    "index.html": "/timeline_for_studio/index.html",
+    "main.e35e6d0a.css.map": "/timeline_for_studio/static/css/main.e35e6d0a.css.map",
+    "main.f0089d73.js.map": "/timeline_for_studio/static/js/main.f0089d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35e6d0a.css",
+    "static/js/main.f0089d73.js"
+  ]
+}
